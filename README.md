@@ -76,8 +76,12 @@ A privacy-preserving recommender where local models are trained on-device and en
 Blockchain-based recommenders solve key issues:
 
 Privacy: No centralized data collection.
+
 Transparency: Smart contracts make logic verifiable.
+
 Decentralization: Removes platform control and promotes open ecosystems.
+
 Auditability: Every interaction is traceable on-chain.
+
 Cross-platform Portability: User profiles and preferences are wallet-based.
 
